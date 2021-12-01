@@ -1,0 +1,20 @@
+.statusOnline {
+  display: block;
+  fill: green;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+.statusOffline {
+  fill: red;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+.name {
+  font-size: 17px;
+  font-weight: bold;
+  margin-right: 5px;
+}
+.avatar {
+  border-radius: 2px;
+  margin-right: 5px;
+}
